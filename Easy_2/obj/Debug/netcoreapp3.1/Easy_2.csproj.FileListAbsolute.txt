@@ -1,0 +1,13 @@
+C:\Users\Анна\source\repos\C#\Easy_2\bin\Debug\netcoreapp3.1\Easy_2.exe
+C:\Users\Анна\source\repos\C#\Easy_2\bin\Debug\netcoreapp3.1\Easy_2.deps.json
+C:\Users\Анна\source\repos\C#\Easy_2\bin\Debug\netcoreapp3.1\Easy_2.runtimeconfig.json
+C:\Users\Анна\source\repos\C#\Easy_2\bin\Debug\netcoreapp3.1\Easy_2.runtimeconfig.dev.json
+C:\Users\Анна\source\repos\C#\Easy_2\bin\Debug\netcoreapp3.1\Easy_2.dll
+C:\Users\Анна\source\repos\C#\Easy_2\bin\Debug\netcoreapp3.1\Easy_2.pdb
+C:\Users\Анна\source\repos\C#\Easy_2\obj\Debug\netcoreapp3.1\Easy_2.csprojAssemblyReference.cache
+C:\Users\Анна\source\repos\C#\Easy_2\obj\Debug\netcoreapp3.1\Easy_2.AssemblyInfoInputs.cache
+C:\Users\Анна\source\repos\C#\Easy_2\obj\Debug\netcoreapp3.1\Easy_2.AssemblyInfo.cs
+C:\Users\Анна\source\repos\C#\Easy_2\obj\Debug\netcoreapp3.1\Easy_2.csproj.CoreCompileInputs.cache
+C:\Users\Анна\source\repos\C#\Easy_2\obj\Debug\netcoreapp3.1\Easy_2.dll
+C:\Users\Анна\source\repos\C#\Easy_2\obj\Debug\netcoreapp3.1\Easy_2.pdb
+C:\Users\Анна\source\repos\C#\Easy_2\obj\Debug\netcoreapp3.1\Easy_2.genruntimeconfig.cache
